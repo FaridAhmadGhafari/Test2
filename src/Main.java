@@ -5,7 +5,7 @@ public class Main {
 
 
 			int a=2, b=8;
-			int sum = a-b;
+			int sum = a+b;
 			
 			System.out.println(sum);
 
