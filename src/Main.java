@@ -10,6 +10,9 @@ public class Main {
 		System.out.println(c*sum);
 			
 			System.out.println(sum);
+			
+			
+			int d=3;
 
 	}
 
